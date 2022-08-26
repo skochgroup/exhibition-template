@@ -142,7 +142,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
- <p>For more information, please contact:<br>contact_string at <a href="mailto:contact_email" target="_blank">contact_email</a></p>
+<p>For more information, please contact:<br>contact_string at <a href="mailto:contact_email" target="_blank">contact_email</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
