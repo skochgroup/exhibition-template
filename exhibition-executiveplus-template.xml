@@ -82,7 +82,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="has-text-align-center">Category: category_string<br>Sub-Category: subcategory_string<br>Project: project_string<br>Start Date: date_string<br>Organisation: organisation_string<br>Respondent: respondent_string<br><a href="website_string" target="_blank">website_string</a><br>Level: level_string</h4>
+<h4 class="has-text-align-center">Category: category_string<br>Sub-Category: seccategory_string<br>Project: project_string<br>Start Date: date_string<br>Organisation: organisation_string<br>Respondent: respondent_string<br><a href="website_string" target="_blank">website_string</a><br>Level: level_string</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -92,10 +92,7 @@
 <div class="wp-block-button aligncenter is-style-3d"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background" href="ex_voting_link"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
-  
-<!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="has-text-align-center">You will be requested to subscribe to SKOCH TV before you can vote</h3>
-<!-- /wp:heading --></div>
+
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
