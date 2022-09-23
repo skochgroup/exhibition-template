@@ -133,7 +133,7 @@
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","align":"center","className":"is-style-3d"} -->
-<div class="wp-block-button aligncenter is-style-3d"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background" href="ex_voting_link"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
+<div class="wp-block-button aligncenter is-style-3d"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background" href="https://exhibition.skoch.in/exhibition-results"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
