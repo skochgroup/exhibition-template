@@ -27,7 +27,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","className":"margin-bottom: 2px;"} -->
-<h2 class="has-text-align-center margin-bottom: 2px;">project_tagline</h2>
+<h2 class="has-text-align-center margin-bottom: 2px;"><span style="text-transform:uppercase;">project_tagline</span></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns {"verticalAlignment":"top"} -->
