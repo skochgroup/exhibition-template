@@ -153,8 +153,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-[iframe src="videos_string" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
-<!-- /wp:html -->
+<div id="video_hook"></div>
+<div style="display:none;" id="video_list">videos_string</div>
+<!-- /wp:html -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
