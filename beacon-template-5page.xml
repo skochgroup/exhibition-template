@@ -170,10 +170,9 @@
 <!-- /wp:spacer -->
 
 <!-- wp:buttons -->
-<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","align":"center","className":"is-style-3d"} -->
-<div class="wp-block-button aligncenter is-style-3d"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background" href="voting_link"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
+<!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","className":"is-style-3d aligncenter"} -->
+<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-results"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
+<!-- /wp:button -->
   
 <!-- wp:spacer {"height":"25px"} -->
 <div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>

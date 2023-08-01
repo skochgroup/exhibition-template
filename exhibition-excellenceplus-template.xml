@@ -5,31 +5,31 @@
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6394884853827754" data-ad-slot="1642158967" data-ad-format="auto" data-full-width-responsive="true"></ins>
 <!-- /wp:html -->
 
-<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(235,202,193) 0%,rgb(255,255,255) 100%)"}},"padding":"no","paddingCustom":"9.8"} -->
-<div class="wp-block-group alignfull has-background" style="background:linear-gradient(135deg,rgb(235,202,193) 0%,rgb(255,255,255) 100%)"><!-- wp:spacer {"height":"10px"} -->
+<!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(246,222,1) 0%,rgb(255,255,255) 100%)"}},"padding":"no","paddingCustom":"9.8"} -->
+<div class="wp-block-group alignfull has-background" style="background:linear-gradient(135deg,rgb(246,222,1) 0%,rgb(255,255,255) 100%)"><!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-
-<!-- wp:image {"align":"center","id":24933,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://exhibition.skoch.in/wp-content/uploads/2022/07/SKOCH-Group-Logo-exhibition-cover.png" alt="" class="wp-image-24933"/></figure>
-<!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","className":"margin-bottom: 2px;"} -->
 <h2 class="has-text-align-center margin-bottom: 2px;">INSERT PROJECT TAGLINE HERE</h2>
 <!-- /wp:heading -->
 
+<!-- wp:image {"align":"center","id":24933,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="https://exhibition.skoch.in/wp-content/uploads/2022/07/SKOCH-Group-Logo-exhibition-cover.png" alt="" class="wp-image-24933"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:columns {"verticalAlignment":"top"} -->
-<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3,"gbResponsiveSettings":{}} -->
 <h3 class="has-text-align-center">Problem</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:spacer {"height":"10px"} -->
@@ -37,17 +37,17 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<!-- wp:column {"verticalAlignment":"top","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:20%"><!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3,"gbResponsiveSettings":{}} -->
 <h3 class="has-text-align-center">Solution</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:spacer {"height":"10px"} -->
@@ -55,17 +55,53 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3} -->
+<!-- wp:heading {"textAlign":"center","level":3,"gbResponsiveSettings":{}} -->
+<h3 class="has-text-align-center">Challenges</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"gbResponsiveSettings":{}} -->
+<h3 class="has-text-align-center">Innovation</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"gbResponsiveSettings":{}} -->
 <h3 class="has-text-align-center">Outcomes</h3>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li></li><li></li><li></li><li></li></ul>
+<ul><li></li><li></li><li></li><li></li><li></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:spacer {"height":"10px"} -->
@@ -93,11 +129,11 @@
 <h4 class="has-text-align-center">Category: category_string<br>Sub-Category: seccategory_string<br>Project: project_string<br>Start Date: date_string<br>Organisation: organisation_string<br>Respondent: respondent_string<br><a href="website_string" target="_blank">website_string</a><br>Level: level_string</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
-
+  
 <!-- wp:column {"verticalAlignment":"center"} -->
 <!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","className":"is-style-3d aligncenter"} -->
 <div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-results"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
-<!-- /wp:button -->
+<!-- /wp:button -->
 
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -116,11 +152,19 @@
 
 <!-- wp:html -->
 [iframe src="https://www.youtube.com/embed/videos_string?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
-<!-- /wp:html -->
+<!-- /wp:html -->
 
 <!-- wp:html -->
 [iframe src="https://www.youtube.com/embed/?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
-<!-- /wp:html -->
+<!-- /wp:html -->
+
+<!-- wp:html -->
+[iframe src="https://www.youtube.com/embed/?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
+<!-- /wp:html -->
+
+<!-- wp:html -->
+[iframe src="https://www.youtube.com/embed/?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
+<!-- /wp:html -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
@@ -166,8 +210,40 @@
 <!-- wp:image {"id":27807,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27807"/></figure>
 <!-- /wp:image -->
+
+<!-- wp:image {"id":27808,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27808"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27816,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27816"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27809,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27809"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27810,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27810"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27823,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27823"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27811,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27811"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27812,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27812"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":27813,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27813"/></figure>
+<!-- /wp:image -->
 <!-- /wp:gallery -->
-  
+
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
@@ -176,13 +252,9 @@
 [tie_index]Case Study[/tie_index]
 <!-- /wp:shortcode -->
 
-<!-- wp:heading {"align":"center"} -->
+<!-- wp:heading {"textAlign":"center"} -->
 <h2 class="has-text-align-center">Case Study</h2>
 <!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Case Study Text</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
