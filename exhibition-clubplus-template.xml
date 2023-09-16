@@ -94,10 +94,9 @@
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center"} -->
-<!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","className":"is-style-3d aligncenter"} -->
-<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-results"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
-<!-- /wp:button -->
+<!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","align":"center","className":"is-style-3d"} -->
+<div class="wp-block-button aligncenter is-style-3d"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background" href="https://exhibition.skoch.in/exhibition-voting/"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
+<!-- /wp:button -->
 
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -115,7 +114,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:html -->
-[iframe src="https://www.youtube.com/embed/videos_string?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="547" frameborder="0"]
+<div id="video_hook"></div>
+<div style="display:none;" id="video_list">videos_string</div>
 <!-- /wp:html -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -146,15 +146,11 @@
 <h2 class="has-text-align-center" id="gallery_title_hook">Gallery</h2>
 <!-- /wp:heading -->
 
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":27817,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27817"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":27818,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27818"/></figure>
-<!-- /wp:image -->
-<!-- /wp:gallery -->
+<!-- wp:html -->
+<div style="display:none" id="gallery_hook">gallery_list</div>
+<div class="splide"><div class="splide__track"><div class="splide__list"><div class="splide__slide">Lorem</div></div></div></div>
+[sc name="exhibtion_videos"]
+<!-- /wp:html -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
