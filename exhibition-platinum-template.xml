@@ -96,7 +96,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","className":"is-style-3d aligncenter"} -->
-<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-results"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
+<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-voting"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
 <!-- /wp:button -->
 
 <!-- /wp:column --></div>
