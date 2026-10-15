@@ -66,47 +66,7 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="has-text-align-center">Challenges</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li></li><li></li><li></li><li></li><li></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="has-text-align-center">Innovation</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li></li><li></li><li></li><li></li><li></li></ol>
-<!-- /wp:list -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":"10px"} -->
-<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
