@@ -323,7 +323,7 @@
 <!-- /wp:shortcode -->
 
 <!-- wp:paragraph -->
-<p>For more information, please contact:<br>contact_string at <a rel="noopener" href="mailto:contact_email" target="_blank">contact_email</a></p>
+<p>For more information, please contact:<br>contact_string at <a href="mailto:contact_email" target="_blank">contact_email</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
@@ -334,26 +334,3 @@
 <p><em>(The content on the page is provided by the Exhibitor)</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:columns {"align":"full"} -->
-<div class="wp-block-columns alignfull"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:html -->
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6394884853827754" crossorigin="anonymous"></script>
-<!-- Exhibition - 3 -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6394884853827754" data-ad-slot="3481319620" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:html -->
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6394884853827754" crossorigin="anonymous"></script>
-<!-- Exhibition - 4 -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6394884853827754" data-ad-slot="6559918268" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
