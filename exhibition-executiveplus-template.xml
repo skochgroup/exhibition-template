@@ -1,22 +1,3 @@
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"10%"} -->
-<div class="wp-block-column" style="flex-basis:10%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"80%"} -->
-<div class="wp-block-column" style="flex-basis:80%"><!-- wp:html -->
-<p align="center">The best way to show your appreciation for this project is to click some advertisements and keep a count of how many you clicked. You will be asked for the number of advertisements that you clicked before you can vote. The money generated through this supports our social action.</p>
-
-<!-- BoH Pages Ad#1 -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6394884853827754" data-ad-slot="1642158967" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<!-- /wp:html --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"10%"} -->
-<div class="wp-block-column" style="flex-basis:10%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
 <!-- wp:group {"align":"full","style":{"color":{"gradient":"linear-gradient(135deg,rgb(235,202,193) 0%,rgb(255,255,255) 100%)"}},"padding":"no","paddingCustom":"9.8"} -->
 <div class="wp-block-group alignfull has-background" style="background:linear-gradient(135deg,rgb(235,202,193) 0%,rgb(255,255,255) 100%)"><!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -87,6 +68,20 @@ solution
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
 
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="6290497558"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="2918228755"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
 <!-- wp:columns {"verticalAlignment":"center","align":"full"} -->
 <div class="wp-block-columns alignfull are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","fontFamily":"Lora"} -->
@@ -106,10 +101,54 @@ solution
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
+<!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="3481319620"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="6559918268"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:shortcode -->
+[tie_index]Presentation[/tie_index]
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">See Presentation</h2>
+<!-- /wp:heading -->
+
 <!-- wp:html -->
 <p align="center">presentation_code</p>
 <!-- /wp:html -->
 
+<!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-css-opacity is-style-wide"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="1220522758"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="6559918268"></ins>
+<!-- /wp:html --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+ 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
@@ -131,20 +170,15 @@ solution
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"10%"} -->
-<div class="wp-block-column" style="flex-basis:10%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"80%"} -->
-<div class="wp-block-column" style="flex-basis:80%"><!-- wp:html -->
-<p align="center">The best way to show your appreciation for this project is to click some advertisements and keep a count of how many you clicked. You will be asked for the number of advertisements that you clicked before you can vote. The money generated through this supports our social action.</p>
-
-
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6394884853827754" data-ad-slot="5332038257" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="3382817511"></ins>
 <!-- /wp:html --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"10%"} -->
-<div class="wp-block-column" style="flex-basis:10%"></div>
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-6394884853827754" data-ad-slot="1842505136"></ins>
+<!-- /wp:html --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
