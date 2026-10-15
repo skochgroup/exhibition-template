@@ -66,7 +66,47 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:column -->
 
+<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center">Challenges</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li></li><li></li><li></li><li></li><li></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center">Innovation</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li></li><li></li><li></li><li></li><li></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
@@ -79,14 +119,15 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="has-text-align-center">Category: category_string<br>Sub-Category: seccategory_string<br>Project: project_string<br>Start Date: date_string<br>Organisation: organisation_string<br>Respondent: respondent_string<br><a rel="noopener" href="website_string" target="_blank">website_string</a><br>Level: level_string</h4>
+<h4 class="has-text-align-center">Category: category_string<br>Sub-Category: seccategory_string<br>Project: project_string<br>Start Date: date_string<br>Organisation: organisation_string<br>Respondent: respondent_string<br><a href="website_string" target="_blank">website_string</a><br>Level: level_string</h4>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:html -->
-<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-voting/"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
-<!-- /wp:html --></div>
+<!-- wp:button {"backgroundColor":"vivid-red","textColor":"white","className":"is-style-3d aligncenter"} -->
+<div class="wp-block-button is-style-3d aligncenter"><a class="wp-block-button__link has-white-color has-vivid-red-background-color has-text-color has-background wp-element-button" href="https://exhibition.skoch.in/exhibition-voting"><strong>CLICK HERE TO VOTE FOR THIS PROJECT!</strong></a></div>
+<!-- /wp:button -->
+
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
@@ -113,8 +154,6 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <!-- /wp:html --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
 
 <!-- wp:shortcode -->
 [tie_index]Videos[/tie_index]
