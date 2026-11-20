@@ -153,16 +153,16 @@ problem
 [tie_index]Gallery[/tie_index]
 <!-- /wp:shortcode -->
 
-<!-- wp:heading {"align":"center"} -->
+<!-- wp:heading {"textAlign":"center"} -->
 <h2 class="has-text-align-center" id="gallery_title_hook">Gallery</h2>
 <!-- /wp:heading -->
 
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":27817,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27817"/></figure>
-<!-- /wp:image -->
-<!-- /wp:gallery -->
- 
+<!-- wp:html -->
+<div style="display:none" id="gallery_hook">gallery_list</div>
+<div class="splide"><div class="splide__track"><div class="splide__list"><div class="splide__slide">Lorem</div></div></div></div>
+[sc name="exhibtion_videos"]
+<!-- /wp:html -->
+
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
 <!-- /wp:separator -->
