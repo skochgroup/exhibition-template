@@ -118,7 +118,9 @@
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
-<!-- /wp:column -->
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-css-opacity is-style-wide"/>
@@ -170,7 +172,7 @@
 <h2 class="wp-block-heading has-text-align-center" id="video_title_hook">Video</h2>
 <!-- /wp:heading -->
 
-<!-- wp:embed {"url":" https://www.youtube.com/watch?videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":" https://www.youtube.com/watch?v=videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
  https://www.youtube.com/watch?v=videos_string
 </div></figure>
@@ -180,7 +182,7 @@
 
 <!-- wp:embed {"providerNameSlug":"youtube","responsive":true} /-->
 
-<!-- wp:embed {"url":" https://www.youtube.com/watch?videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":" https://www.youtube.com/watch?v=videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
  https://www.youtube.com/watch?v=videos_string
 </div></figure>
@@ -190,7 +192,7 @@
 
 <!-- wp:embed {"providerNameSlug":"youtube","responsive":true} /-->
 
-<!-- wp:embed {"url":" https://www.youtube.com/watch?videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<!-- wp:embed {"url":" https://www.youtube.com/watch?v=videos_string","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
  https://www.youtube.com/watch?v=videos_string
 </div></figure>
@@ -257,7 +259,7 @@
 
 <!-- wp:image {"id":27807,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-27807"/></figure>
-<!-- /wp:image -->
+<!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:separator {"opacity":"css","className":"is-style-wide"} -->
