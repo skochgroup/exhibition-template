@@ -118,6 +118,78 @@
 <!-- wp:spacer {"height":"10px"} -->
 <div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center"><strong>Challenges</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"33.3%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.3%"><!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center"><strong>Innovations</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
